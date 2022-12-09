@@ -1,0 +1,57 @@
+/* General */
+
+
+.logo{
+    display: flex;
+    justify-self: center;
+}
+
+.body{
+    height: 100vh;
+}
+.header{
+ background-color:  #f19298;
+}
+.espacioHeader{
+    padding: 20px 80px;
+    border: 2px solid black;
+    margin: 20px 80px;
+}
+
+.titulo{
+    align-items:flex-end;
+}
+.menu{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.main{
+    background-color:#FFEBCD;
+   
+}
+
+
+footer{
+    background-color: rgb(250, 128, 114);
+    padding: 20px 80px;
+    border: 2px solid black;
+    margin: 0% 5%;
+}
+
+.redesSociales{
+    background-color: white;
+    padding: 5% 5%;
+    border: 2px solid black;
+    margin: 30px;
+}
+
+.espacioRedes{
+    padding: 2px 20px;
+}
+
+
+
+
